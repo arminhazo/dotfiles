@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = armin.zoerkler@gmail.com
+	name = Armin Zoerkler
